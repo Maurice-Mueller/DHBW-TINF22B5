@@ -9,3 +9,21 @@ Alle Folien zu den Vorlesungen sind unter "Folien" abgelegt.
   * Vorstellung
   * Fragen & Antworten
 * Auswahl der Themen
+  * verpflichtende Themen (alphabetisch)
+    * DDD
+    * Entwurfsmuster
+    * GRASP
+    * Refactoring
+    * SOLID
+    * Testing
+  * Themenauswahl (nach Stimmen sortiert)
+    * API Design (11)
+    * Legacy Code (10)
+    * Software-Architektur (10)
+    * FRP (5)
+    * CI/CD (2)
+    * Prinzipien (2)
+    * UX (2)
+    * Namen (0)
+* Entwurfsmuster
+  * bis einschließlich Problem 2 des Beobachtermusters
