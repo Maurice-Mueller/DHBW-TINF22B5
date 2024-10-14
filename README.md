@@ -27,3 +27,8 @@ Alle Folien zu den Vorlesungen sind unter "Folien" abgelegt.
     * Namen (0)
 * Entwurfsmuster
   * bis einschließlich Problem 2 des Beobachtermusters
+
+## 2024-10-08
+
+* Entwurfsmuster
+  * bis einschließlich Singleton 'Vorteile'
