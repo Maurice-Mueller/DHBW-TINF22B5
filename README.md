@@ -32,3 +32,10 @@ Alle Folien zu den Vorlesungen sind unter "Folien" abgelegt.
 
 * Entwurfsmuster
   * bis einschließlich Singleton 'Vorteile'
+
+## 2024-10-15
+
+* Entwurfsmuster
+  * vollständig
+* SOLID
+  * bis OCP ausschließlich 'Entenrennen'
