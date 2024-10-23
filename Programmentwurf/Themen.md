@@ -10,12 +10,15 @@
 
 * Finanzmanager (3er Gruppe)
 * Fitnesstracker
+* Passwort-Manager (3er Gruppe)
+* Hotelbuchungssystem (2er Gruppe)
+* Zeitplaner
+* Schach
 
 ## Angefragt
 
 * Meme-Generator (2er Gruppe)
-* Hotelbuchungssystem (2er Gruppe)
 * Chat-App (2er Gruppe)
 * Belegscanner
-* Passwort Manager oder Essensplaner (3er Gruppe)
 * Mental Health App
+* Filmverwaltung (3er Grupper)
