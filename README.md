@@ -38,4 +38,11 @@ Alle Folien zu den Vorlesungen sind unter "Folien" abgelegt.
 * Entwurfsmuster
   * vollständig
 * SOLID
-  * bis OCP ausschließlich 'Entenrennen'
+  * bis LSP ausschließlich 'Entenrennen'
+
+## 2024-10-22
+
+* SOLID
+  * vollständig
+* GRASP
+  * bis einschließlich 'Polymorphismus'
