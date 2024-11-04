@@ -14,12 +14,14 @@
 * Hotelbuchungssystem (2er Gruppe)
 * Zeitplaner
 * Schach
+* Chat-App (2er Gruppe)
 
 ## Angefragt
 
 * Meme-Generator (2er Gruppe)
-* Chat-App (2er Gruppe)
 * Belegscanner
 * Mental Health App
 * Filmverwaltung (3er Grupper)
 * Routenplaner
+* Social-Media-Plattform
+* ToDo-Liste
