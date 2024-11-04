@@ -46,3 +46,9 @@ Alle Folien zu den Vorlesungen sind unter "Folien" abgelegt.
   * vollständig
 * GRASP
   * bis einschließlich 'Polymorphismus'
+
+## 2024-10-29
+* GRASP
+  * vollständig
+* API-Design
+  * bis einschließlich 'Objektorientierte APIs - Benennung'
