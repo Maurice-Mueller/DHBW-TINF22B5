@@ -52,3 +52,7 @@ Alle Folien zu den Vorlesungen sind unter "Folien" abgelegt.
   * vollständig
 * API-Design
   * bis einschließlich 'Objektorientierte APIs - Benennung'
+
+## 2024-11-05
+* API-Design
+  * bis einschließlich 'Versionskompatibilität'
