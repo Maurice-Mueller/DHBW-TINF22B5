@@ -18,10 +18,10 @@
 * ToDo-Liste
 * Mental Health App
 * Routenplaner
+* Getränkeabrechnung (3er Grupper)
 
 ## Angefragt
 
 * Belegscanner
-* Filmverwaltung (3er Grupper)
 * Social-Media-Plattform
 * MP3-Player (2er-Gruppe)
