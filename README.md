@@ -56,3 +56,9 @@ Alle Folien zu den Vorlesungen sind unter "Folien" abgelegt.
 ## 2024-11-05
 * API-Design
   * bis einschließlich 'Versionskompatibilität'
+
+## 2024-11-12
+* API-Design
+  * vollständig
+* Domain Driven Design
+  * bis einschließlich 'Generische Domäne'
