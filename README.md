@@ -62,3 +62,9 @@ Alle Folien zu den Vorlesungen sind unter "Folien" abgelegt.
   * vollständig
 * Domain Driven Design
   * bis einschließlich 'Generische Domäne'
+
+## 2024-11-19
+* Domain Driven Design
+  * vollständig
+* Softwarearchitektur
+  * bis einschließlich 'Qualitätsmerkmale'
