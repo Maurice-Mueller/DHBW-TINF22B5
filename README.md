@@ -68,3 +68,7 @@ Alle Folien zu den Vorlesungen sind unter "Folien" abgelegt.
   * vollständig
 * Softwarearchitektur
   * bis einschließlich 'Qualitätsmerkmale'
+
+## 2024-11-26
+* Softwarearchitektur
+  * vollständig
