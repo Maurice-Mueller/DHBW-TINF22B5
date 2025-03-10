@@ -72,3 +72,9 @@ Alle Folien zu den Vorlesungen sind unter "Folien" abgelegt.
 ## 2024-11-26
 * Softwarearchitektur
   * vollständig
+
+
+## 2025-03-04
+* Softwaretests
+  * vollständig
+
