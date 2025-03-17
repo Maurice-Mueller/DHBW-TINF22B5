@@ -78,3 +78,7 @@ Alle Folien zu den Vorlesungen sind unter "Folien" abgelegt.
 * Softwaretests
   * vollständig
 
+## 2025-03-11 (online)
+* Refactoring
+  * bis einschließlich 'Code Smell: Large Class'
+
