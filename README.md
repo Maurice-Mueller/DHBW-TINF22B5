@@ -82,3 +82,8 @@ Alle Folien zu den Vorlesungen sind unter "Folien" abgelegt.
 * Refactoring
   * bis einschließlich 'Code Smell: Large Class'
 
+## 2025-03-18
+* Refactoring
+  * vollständig
+* Legacy Code
+  * bis einschließlich 'Sprout Method'
