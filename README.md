@@ -87,3 +87,11 @@ Alle Folien zu den Vorlesungen sind unter "Folien" abgelegt.
   * vollständig
 * Legacy Code
   * bis einschließlich 'Sprout Method'
+
+## 2025-03-25
+* Legacy Code
+  * vollständig
+
+## 2025-04-22
+* Probepräsentation Programmentwurf
+
